@@ -5,7 +5,7 @@
 5. What are Cache Servers? Name Different types of it?
 6. What are monitering Servers? Name Different types of it?
 7. What are Version controls? Name Different types of it?
-8. What are difference between version control and source control?
+8. Difference between version control and source control?
 9. What are configuration management tools? What do you do with it?
 10. What are cloudbased infrastructure?
 11. Why do you need cloudbased infrastructure?
@@ -13,11 +13,11 @@
 14. AWS? why? What are different AWS services? Explain in Detail....
 15. what is differnt between bash and python?
 17. What is the python module for AWS, VMWARE
-19. Write a bash script to copy a file from remote server and place it in /tmp directory?
-20. Write puppet code for SSHD installation and configuration ( Default) ?
-21. What are modules in puppet?
-22. What are manifests in puppet? Differenrce between puppet and puppet enterprise?
-23. what is puppet DB?
-25. How do you use puppet for code deployments?
-26. write a python script for .war file deployment from a remote server to /var/www folder..
-27. onpremises server?
+18. Write a bash script to copy a file from remote server and place it in /tmp directory?
+19. Write puppet code for SSHD installation and configuration ( Default) ?
+20. What are modules in puppet?
+21. What are manifests in puppet? Differenrce between puppet and puppet enterprise?
+22. what is puppet DB?
+23. How do you use puppet for code deployments?
+24. write a python script for .war file deployment from a remote server to /var/www folder..
+25.  what are onpremises server?
