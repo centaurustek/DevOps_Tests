@@ -1,0 +1,13 @@
+1. write a pythonscript to create a ec2 instance on aws using any ami vale
+or 
+write a python fabric script to do  a health check i,e service httpd running on port 80 or no
+
+2. write a shell script which will install puppet on client machine.. and then add 
+
+server = master.localdomain
+
+to puppet.conf file and then start the puppet services, stop the iptables 
+
+3. write a puppet module to create a file /home/username/helloworld.txt and then add somecontent to that file, change the owner and group of that file to your username and then permissions set to user rwx-rw-rw
+4. install a package httpd and then start the services
+5. create a user - any user using puppet
