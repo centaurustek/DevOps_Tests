@@ -1,0 +1,9 @@
+1. write a modules which will create a file and takes the owner and group from hieradata
+
+/etc/puppet/hieradate
+
+and then depending on hiracial lookdown
+
+osfamily - RedHat.yaml ( or your osfamily)
+hostname - Client.yaml ( or machine)
+domain - localdomain.yaml ( or your domain)
