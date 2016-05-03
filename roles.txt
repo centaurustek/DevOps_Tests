@@ -1,0 +1,4 @@
+1. write a profile modules for webserver which will have apache installation and configuraiton and
+add a user by name yourchoice and incorporate it into your profile module and add a webserver role in site.pp
+
+
